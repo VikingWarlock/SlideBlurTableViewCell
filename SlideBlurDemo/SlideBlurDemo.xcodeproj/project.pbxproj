@@ -216,9 +216,6 @@
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "viking warlock";
 				TargetAttributes = {
-					8847399F19320EF700EFB947 = {
-						DevelopmentTeam = 2T5DSP2WAH;
-					};
 					884739C019320EF700EFB947 = {
 						TestTargetID = 8847399F19320EF700EFB947;
 					};
