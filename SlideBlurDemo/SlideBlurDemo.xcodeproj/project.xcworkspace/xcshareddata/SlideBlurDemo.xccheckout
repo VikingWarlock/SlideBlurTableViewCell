@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5780C0F1-65A3-4052-A495-3CEC26C2D51E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SlideBlurDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ACE67FD0-0F60-4AAB-B16E-68DA06859FFD</key>
+		<string>https://github.com/VikingWarlock/SlideBlurTableViewCell</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SlideBlurDemo/SlideBlurDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ACE67FD0-0F60-4AAB-B16E-68DA06859FFD</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/VikingWarlock/SlideBlurTableViewCell</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ACE67FD0-0F60-4AAB-B16E-68DA06859FFD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ACE67FD0-0F60-4AAB-B16E-68DA06859FFD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SlideBlurTableViewCell</string>
+		</dict>
+	</array>
+</dict>
+</plist>
